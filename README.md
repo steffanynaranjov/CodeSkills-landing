@@ -8,7 +8,7 @@ This is a responsive landing page to explain how Code Skills works
 
 ## To see the online landing packages :arrow_down:
 
-[Web-site](https://code-skills-landing.vercel.app/ "code-skills"){:target="\_blank"}
+[Web-site](https://code-skills-landing.vercel.app/ "code-skills")
 
 ### To know more about me
 
