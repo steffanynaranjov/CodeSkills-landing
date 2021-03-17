@@ -6,7 +6,9 @@ This is a responsive landing page to explain how Code Skills works
 
 [![codeskills](http://img.youtube.com/vi/7LnMswlAfwg/0.jpg)](https://www.youtube.com/watch?app=desktop&v=7LnMswlAfwg "Audi R8")
 
-## To see the online landing packages :arrow_down:
+## To see the online landing page :arrow_down:
+
+Click here to see the page :checkered_flag:
 
 [Web-site](https://code-skills-landing.vercel.app/ "code-skills")
 
